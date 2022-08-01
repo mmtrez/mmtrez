@@ -1,5 +1,5 @@
 ## 👋 Hey there
-My name is Mohammad and i'm a fullstack web developer. I started programming with Basic language when i was 19 just to see what's this about, and i loved it.
+My name is Mohammad and i'm a fullstack web developer. I started programming with Basic language when i was 19 just to see what's this about, and i loved it.  
 I've been mostly focused on MERN stack but i'm also very interested in working with other languages and freamworks.
 
 ## 📊 Stats
